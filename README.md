@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> a4b0100 (Initial commit with all project files)
 # Heart Disease Risk Prediction Using KNN Algorithm
 
 ## Introduction
